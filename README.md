@@ -1,5 +1,8 @@
 # ZSH-GALACTICA
 
+## DEPRECATED
+This project is no longer maintained.
+
 ## Description
 An oh-my-zshell plugin to use OpenAI's GPT to complete commands
 and edit files. Inspired by Battlestar Galactica's Captain Adama.
