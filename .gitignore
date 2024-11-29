@@ -1,0 +1,6 @@
+*.log
+node_modules/
+.env
+.DS_Store
+*.tmp
+.config/zsh-galactica/roles/*.json
